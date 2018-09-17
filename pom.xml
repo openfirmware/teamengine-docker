@@ -20,6 +20,7 @@
     <ets-wfs11.version>1.32</ets-wfs11.version>
     <ets-wfs20.version>1.29</ets-wfs20.version>
     <ets-wfs30.version>0.1-SNAPSHOT</ets-wfs30.version>
+    <ets-security-client10.version>0.2-SNAPSHOT</ets-security-client10.version>
     <ets-wms11.version>1.16</ets-wms11.version>
     <ets-wms13.version>1.24</ets-wms13.version>
     <ets-wmts10.version>1.1</ets-wmts10.version>
@@ -192,6 +193,7 @@
     <module>teamengine-ets-gpkg12-nsg</module>
     <module>teamengine-ets-wms13-nsg</module>
     <module>teamengine-ets-cat20-dgiwg10</module>
+    <module>teamengine-ets-security-client10</module>
   </modules>
 
 </project>
